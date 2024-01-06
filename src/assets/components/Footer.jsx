@@ -1,6 +1,6 @@
 import React from 'react'
 import '../css/Footer.css'
-import footer from '../img/footer.jpg'
+import footer from '../img/Footer.jpg'
 function Footer() {
   return (
     <div className='footerContainer'>
