@@ -1,6 +1,6 @@
 import React from 'react'
 import Mesh from '../img/hero_section.png'
-import '../css/HeroSection.css'
+import '../css/heroSection.css'
 
 function HeroSection() {
   return (

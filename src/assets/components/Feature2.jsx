@@ -1,5 +1,5 @@
 import React from 'react'
-import '../css/Feature.css'
+import '../css/feature.css'
 import feature2 from '../img/Feature2.jpg'
 
 function Feature2() {

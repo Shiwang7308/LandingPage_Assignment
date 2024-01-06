@@ -1,5 +1,5 @@
 import React from 'react'
-import '../css/LogoCloud.css'
+import '../css/logoCloud.css'
 import logoCloud from '../img/Logo_Cloud.jpg'
 
 function LogoCloud() {

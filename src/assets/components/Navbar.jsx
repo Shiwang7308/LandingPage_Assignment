@@ -1,5 +1,5 @@
 import React from 'react'
-import '../css/Navbar.css'
+import '../css/navbar.css'
 import logo from '../img/logo.jpg'
 import chevron_down from '../img/chevron_down.jpg'
 import log_in from '../img/log_in.jpg'
