@@ -1,0 +1,14 @@
+.callToActionConatiner{
+    height: 364px;
+    width: 100%;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+
+}
+
+.callToActionConatiner img{
+   height: 100%;
+   width: 100%;
+   object-fit: contain;
+}

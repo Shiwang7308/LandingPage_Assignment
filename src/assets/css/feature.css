@@ -1,0 +1,27 @@
+.feature1Container{
+    height: 696px;
+    width: 1440px;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+
+.feature1Container img{
+    height: 504px;
+    width: 100%;
+    object-fit: contain;
+}
+
+.feature2Container{
+    height: 998px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.feature2Container img{
+    padding: 0px 16px;
+    height: 806px;
+    width: 100%;
+    object-fit: contain;
+}

@@ -1,0 +1,32 @@
+.announcementComponent{
+    background-color: white;
+    color: #121417;
+    /* width: 1440px; */
+    height: 40px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Inter;
+    border-bottom: 1px solid #E6E7E9;
+}
+
+.announcemntBadge{
+    background-color: #F1F1F2;
+    border: 1px solid #E6E7E9;
+    color: #363C46;
+    width: 104px;
+    height: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: medium;
+    line-height: 16px;
+    padding: 4px 8px;
+    margin-right: 16px;
+    border-radius: 10px;
+
+
+}

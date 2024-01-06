@@ -1,0 +1,12 @@
+.logo-cloud{
+    height: 232px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo-cloud img{
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}

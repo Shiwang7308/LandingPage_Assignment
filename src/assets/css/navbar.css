@@ -1,0 +1,80 @@
+.navbar{
+    background-color: white;
+    color: #121417;
+    /* width: 1280px; */
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: Inter;
+    border-bottom: 1px solid #E6E7E9;
+    padding : 0px 32px;
+}
+
+.navbar-logo{
+    height: 24px;
+    width: 100px;
+    padding: 0px 8px;
+}
+
+.navbar-menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 608px;
+    height: 36px;
+}
+
+.navbar-menu .navbar-link{
+    color: #363C46;
+    /* width: 95px; */
+    height: 20px;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.navbar-menu .navbar-chevron{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20px;
+}
+
+.navbar-menu .navbar-chevron img{
+    width: 20px;
+    height: 20px;
+    margin-left: 8px;
+}
+.navbar-menu a{
+    text-decoration: none;
+}
+
+.navbar-action{
+    height: 36px;
+    width: 103px;
+    border-radius: 10px;
+    padding: 0px 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Inter;
+    background-color: #F1F1F2;
+}
+
+.navbar-action .btn{
+    color: #5A6475;
+    background-color: #F1F1F2;
+    font-size: 16px;
+    line-height: 20px;
+    font-family: Inter;
+    border: none;
+    width: 43px;
+    height: 20px;
+    margin-right: 8px;
+}
+
+.navbar-action .log-in{
+    width: 20px;
+    height: 20px;
+    
+}

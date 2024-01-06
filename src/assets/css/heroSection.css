@@ -1,0 +1,17 @@
+.hero-section{
+    height: 532px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    padding: 0px 32px;
+}
+
+.hero-section img{
+    
+    height: 460px;
+    background-image: url(../img/Mesh.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
